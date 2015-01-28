@@ -24,13 +24,14 @@
 					<li><a href="./svc-beach.php">Beach Sessions</a></li>
 					<li><a href="./svc-phone.php">Phone Sessions</a></li>
 					<li><a href="./svc-SJ.php">San Jose Sessions</a></li>
+					<li><a href="./svc-barstraining.php">Bars<sup>&reg</sup> Training</a></li>
 				</ul>
 			</li>
 			<li><a href="./meetRenee.php">Contact</a>
 				<ul>
 					<li><a href="tel:1-408-218-5458">408-218-5458</a></li>
 					<li><a href="mailto:renee.tennant@sbcglobal.net">renee.tennant@sbcglobal.net</a></li>
-					<li><a href="./sanctuary.php">Secret Sanctuary</a></li>
+					<li><a href="./sanctuary.php">Soquel Location Directions</a></li>
 				</ul>
 			</li>
 		</ul>
