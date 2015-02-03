@@ -122,24 +122,19 @@
 			<section class='pricing'>
 
 				<h5>Bars: $100 / Between 1 and 1.5 hours
-					<br>
-					<small>
+<!--					<br>
+ 					<small>
 						3 week commitment: $75/session
 					</small>
-				</h5>
+ -->				</h5>
 				
-				<p>Would you be willing to be the creator of your own life from a place of infinite possibilities? The Bars can assist. It may take more than one session to open you up. Many people cannot sense an immediate change, but if they are willing, their life will change. Would you like to have more joy in your life? Agreeing to a weekly Bars session can create that, and I would like to make that possible for as many people as I can. My weekly rate is $75 a session.</p>
+				<p>My standard fee for all my services is the same: $100 for the first hour, and then it's $1 per minute for any additional time. For example, 1.5 hours is $130, and 2 hours is $160.</p>
 
-				<p>If you would like to have a weekly session, and the per-session cost makes it difficult, I'm willing to explore the possbilities. I know that money follows joy, so the more joy you create, the more money you will have and the more you can pay for a session! Let's build to that! How does it get even better?</p>
+				<p>However, I truly wish to expose Bars and Access Body Processes to as many people as I can, so I charge a flat fee of $100 for a session that lasts between 1 hour and 1.5 hours. </p>
 
-				<h5>Access Consciousness body processes followed by short Bars: $100 / Between 1 and 1.5 hours
-					<br>
-					<small>
-						3 week commitment: $75/session
-					</small>
-				</h5>
+				<p>Sessions that include a lot of verbal processing tend to go longer, and I invite you, <strong>but do not require you</strong>, to pay my standard fee.</p>
 
-				<p>Access Consciousness has over 40 processes that the body can choose from to either address a specific condition or allow the body to choose freely.  The time will be divided between the chosen body process and a shortened Bars session. </p>
+				<p>If you would like to have a weekly session or even a bi-weekly session, and the per-session cost makes it difficult, I'm willing to explore the possibilities. I know that money follows joy, and having a sense of space and possibility creates joy, which is precisely what The Bars offers! The more joy you create, the more money you will have and the more you can pay for a session! Let's build to that. How does it get even better?</p>
 
 			</section>
 		</section>
