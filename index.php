@@ -6,7 +6,7 @@
 <!--[if !IE]><html><![endif]-->
 <html lang='en'>
 <head>
-	<title>Renee Tennant</title>
+	<title>Renee Marie Tennant</title>
 	<?php include('./partials/headtags.php'); ?>
 </head>
 <body>
@@ -41,8 +41,8 @@
 	<article>
 		<section id='main' class='wrapper'>
 
-			<h1>Renee Tennant</h1>
-			<h2>Certified Intuitive Facilitater</h2>
+			<h1>Renee Marie Tennant</h1>
+			<h2>Certified Intuitive Facilitator</h2>
 
 			<p>Are your health or your relationships with people and events not what you want?</p>  
 
@@ -99,7 +99,7 @@
 		</section>
 
 		<section id='sidebar' class='wrapper'>
-			<?php include('./partials/emailform.php'); ?>
+			<?php include('./partials/sidebar.php'); ?>
 		</section>
 
 		<section>

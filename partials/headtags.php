@@ -2,10 +2,10 @@
 	<meta name='ROBOTS' content='INDEX,FOLLOW'>
 	<meta name='author' content='Greg Tennant'>
 	<meta name='description' content='Renee Tennant Certified Intuitive Facilitator'>
-	<meta name='keywords' content=''>
+	<meta name='keywords' content='bioenergy balancing, intuitive, healer, counselor, counseling, access, consciousness, therapy, therapeutic, healing, new age, spiritual, guide, coach, holistic, wholeness, whole, naturopath, naturopathic, mind, body, integrated, integral, transformation, self, discovery, realization, soquel, aptos, santa cruz, capitola'>
 
 	<link rel="stylesheet" type="text/css" href="./assets/css/style.css">
-	<link rel="shortcut icon" href="">
+	<link rel="shortcut icon" href="./assets/img/starburst.png">
 
 	<!-- Viewport meta tag to prevent iPhone from zooming down our page -->
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
@@ -34,7 +34,7 @@
 
 	<!-- Shim to force HTML5 recognition: -->
 	<!--[if lt IE 9]>
-		<script src="./assets/js/html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="../assets/js/html5shiv.js"></script>
 	<![endif]-->
 
 	<!-- Attribute Selector Support for IE6 -->

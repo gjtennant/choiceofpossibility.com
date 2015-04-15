@@ -75,7 +75,7 @@
 		</section>
 
 		<section id='sidebar' class='wrapper'>
-			<?php include('./partials/emailform.php'); ?>
+			<?php include('./partials/sidebar.php'); ?>
 		</section>
 
 		<section>
