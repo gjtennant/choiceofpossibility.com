@@ -234,9 +234,34 @@ table {
 	     url('../fonts/allura-regular-webfont.svg#allura-regular') format('svg');
 	font-weight: normal;
 	font-style: normal;
+
 }
 
-/* * * * * * * * * * * * * * * * * * * * * 
+@font-face {
+	font-family:"Garto16";
+	src: url('../fonts/garto16-webfont.eot');
+	src: url('../fonts/garto16-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/garto16-webfont.woff') format('woff'),
+	     url('../fonts/garto16-webfont.ttf') format('truetype'),
+	     url('../fonts/garto16-webfont.svg#garto16') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+/*@font-face {
+	font-family:Sansita;
+	src: url('../fonts/sansita-regular-webfont.eot');
+	src: url('../fonts/sansita-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/sansita-regular-webfont.woff') format('woff'),
+	     url('../fonts/sansita-regular-webfont.ttf') format('truetype'),
+	     url('../fonts/sansita-regular-webfont.svg#sansita-regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+*//* * * * * * * * * * * * * * * * * * * * * 
 
 	Fluid Media
 
@@ -279,34 +304,6 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-h1 {
-	font-size: 1.975em;
-	line-height: 1.3;
-	font-weight: normal;
-}
-
-h2 {
-	font-size: 1.65em;
-	line-height: 1.65;
-	margin-bottom: .325em;
-	font-weight: normal;
-}
-
-h3,h4 {
-	line-height: 1.65;
-	margin: .65em 0;
-	font-weight:500;
-}
-
 body {
 	font-family:Palatino;
 	background: #e6eff0;
@@ -322,6 +319,43 @@ p ~ ul {
 	/*list-style-type: none;*/
 	padding-left:40px;
 	margin-bottom: .65em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	/*font-family:"Sansita",sans-serif;*/
+	font-family:"Garto16",sans-serif;
+	color:darkblue;
+}
+
+h5,
+h6 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-size: 2.5em;
+	/*font-size: 1.975em;*/
+	line-height: 1.3;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 1.9em;
+	/*font-size: 1.65em;*/
+	line-height: 1.2;
+	margin-bottom: .325em;
+	font-weight: normal;
+}
+
+h3,h4 {
+	font-size: 1.5em;
+	line-height: 1.2;
+	/*line-height: 1.65;*/
+	margin: .65em 0;
+	font-weight:500;
 }
 
 blockquote {
@@ -637,6 +671,10 @@ footer {
 	font-family:sans-serif;
 	font-size:.65em;
 	font-weight:200;
+}
+
+figcaption {
+	padding-top: .65em;
 }
 
 /* Styles for admin view of email subscriber list */

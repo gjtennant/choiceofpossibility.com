@@ -60,32 +60,38 @@
 
 			<figure class='inset2'>
 				<img src="./assets/img/parking1.jpg" alt="Parking entrance">
+				<figcaption>Soquel Dr. and Daubenbiss</figcaption>
 			</figure>
 
-			<p>Walk diagonally across the next lot in front of the Hair Salon and Market:</p>
+			<!-- <p>Walk diagonally across the next lot in front of the Hair Salon and Market:</p> -->
 
 			<figure class='inset2'>
 				<img src='./assets/img/parking2.jpg' alt='Cross the parking lot'>
+				<figcaption>Walk diagonally across the next lot in front of the Hair Salon and Market.</figcaption>
 			</figure>
 			
-			<p>Go through the walkway into another parking lot:</p>
+			<!-- <p>Go through the walkway into another parking lot:</p> -->
 
 			<figure class='inset2'>
 				<img src='./assets/img/passage1-900.jpg' alt='Buildings to go between'>
+				<figcaption>Go through the walkway between buildings.</figcaption>
 			</figure>
 
 			<figure class='inset2'>
 				<img src='./assets/img/passage2-900.jpg' alt='Passageway between the buildings'>
+				<figcaption>The walkway leads to another parking lot.</figcaption>
 			</figure>
 
-			<p>Go around the building on your right, and see our pretty yellow door:</p>
+			<!-- <p>Go around the building on your right, and see our pretty yellow door:</p> -->
 
 			<figure class='inset2'>
 				<img src="./assets/img/sanctuary_ext1-900.jpg" alt='Secret Sanctuary front porch'>
+				<figcaption>Go around the building on your right, and see our pretty yellow door.</figcaption>
 			</figure>
 
 			<figure class='inset2'>
 				<img src="./assets/img/sanctuary_ext2-900.jpg" alt='Secret Sanctuary front door'>
+				<figcaption>Hello.</figcaption>
 			</figure>
 
 			<figure class='inset2'>

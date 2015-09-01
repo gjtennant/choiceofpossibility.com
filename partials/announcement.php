@@ -1,8 +1,8 @@
 <div id='announcement'>
 
-	<!-- Would you like to get trained in giving The Bars<sup>&reg</sup> yourself? Please contact me about possible class dates. -->
+	Would you like to get trained in giving The Bars<sup>&reg</sup> yourself? Please contact me about possible class dates.
 
-	<p>Next Bars Training will be held on Sunday, April 26th in Soquel.  Go to <a href="./svc-barstraining.php">Services > Bars Training</a> for specifics.</p>
+	<!-- <p>Next Bars Training will be held on Sunday, May 31st in Soquel.  Go to <a href="./svc-barstraining.php">Services > Bars Training</a> for specifics.</p> -->
 
 	<!-- 
 	<hr id="thisone">
